@@ -18,14 +18,7 @@ module.exports = {
     ]
   },
   router: {
-    base: '/',
-    extendRoutes (routes, resolve) {
-      routes.push({
-        name: 'inspire',
-        path: '/inspire1',
-        component: resolve(__dirname, 'pages/inspire.vue')
-      })
-    }
+    base: '/'
   },
   loading: { color: '#fff' },
   css: [
