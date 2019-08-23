@@ -1,22 +1,6 @@
-# nuxt-demo
+# 个人主页
 
-> My divine Nuxt.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-$ npm run install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+我是一名计算机专业的大三学生，坐标「成都」
+主要技术栈包括Java，Js，Vue，Spring-framework等
+目前运营个人博客，公众号「**极北之地**」以及一些个人开源项目
+如果你想要联系我，邮箱「**janine.jian.chen@gmail.com**」
