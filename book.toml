@@ -1,0 +1,6 @@
+[book]
+authors = ["chenjianrui"]
+language = "en"
+multilingual = false
+src = "src"
+title = "小陈的笔记"
