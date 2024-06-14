@@ -1,0 +1,8 @@
+- 更新包列表：`sudo apt update`
+- 安装openssh-server：`sudo apt install openssh-server`
+- 查看服务状态：`sudo systemctl status ssh`
+	- 自动启用：`sudo systemctl enable ssh`
+- 配置密码登录
+	- 修改配置文件：`sudo vim /etc/ssh/sshd_config`
+	- 修改：`PasswordAuthentication yes`
+	- 服务重启：`sudo systemctl restart ssh`
